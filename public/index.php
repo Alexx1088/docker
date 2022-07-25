@@ -9,6 +9,6 @@
 </head>
 <body>
 this is index php
-<? echo 'bla-bla-bla' ?>
+<? echo 'test' ?>
 </body>
 </html>
